@@ -1,0 +1,9 @@
+
+-------------------Employee Details -------------------------
+ID: 78
+Name: Dharshan
+Basic Salary: 55000.000000
+DA: 1500.000000
+HRA: 1000.000000
+Tax: 5500.000000
+Total Salary: 52000.000000

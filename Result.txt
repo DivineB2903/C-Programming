@@ -1,0 +1,13 @@
+
+--------------------Student details-------------------------
+Name : Nisha 
+Roll no. : 23 
+Subject Name : JAVA 
+Marks : 80
+Subject Name : C 
+Marks : 86
+Subject Name : Python 
+Marks : 85
+Total marks : 251.000000
+percentage is : 83.666664
+Your grade is : B
