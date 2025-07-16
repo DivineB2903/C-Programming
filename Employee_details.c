@@ -11,11 +11,12 @@ int main() {
     printf("Enter Employee ID: ");
     scanf("%d", &id);
     printf("Enter Employee Name: ");
-    scanf("%s", name);
+    scanf("%s", &name);
     printf("Enter Basic Salary: ");
     scanf("%f", &bs);
     printf("Enter DA: ");
     scanf("%f", &da);
+
     printf("Enter HRA: ");
     scanf("%f", &hra);
 
